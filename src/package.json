@@ -1,0 +1,15 @@
+{
+  "name": "ScrollSnap",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/205nv53n0j",
+  "main": "index.js",
+  "dependencies": {
+    "styled-components": "2.4.0",
+    "react-router-dom": "4.2.2",
+    "react-dom": "16.2.0",
+    "react": "latest",
+    "css-scroll-snap-polyfill": "latest"
+  }
+}
